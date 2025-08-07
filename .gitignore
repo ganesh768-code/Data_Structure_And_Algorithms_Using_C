@@ -1,0 +1,16 @@
+# Ignore object and executable files
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore build directories
+/build
+/bin
+
+# Editor/IDE files
+*.swp
+*.log
+*.tmp
+*.DS_Store
+*.vscode/
